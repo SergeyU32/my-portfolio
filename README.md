@@ -10,4 +10,4 @@
 
 ## Проекты
 
-![Моё фото](img/photo.jpg)
+![Моё фото](images/photo.jpg)
